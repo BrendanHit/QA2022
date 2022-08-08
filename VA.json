@@ -38,7 +38,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"username\": \"demo11\",\r\n    \"password\": \"demo11\",\r\n    \"long_token\": false\r\n}",
+					"raw": "{\r\n    \"username\": \"demo12\",\r\n    \"password\": \"demo12\",\r\n    \"long_token\": false\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
