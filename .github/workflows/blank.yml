@@ -27,5 +27,6 @@ jobs:
       - name: Newman Action
         uses: matt-ball/newman-action@v1.0.4
         with:
+          #Название колекции
           collection: VA.json
 
